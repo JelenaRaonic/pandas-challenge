@@ -13,3 +13,4 @@ Analysis includes following reports:
 8. Scores by School Size
 9. Scores by School Type 
 
+Inside of Jupyter Notebook there is detailed PyCitySchools Analysis.
