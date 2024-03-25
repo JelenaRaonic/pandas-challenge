@@ -14,3 +14,5 @@ Analysis includes following reports:
 9. Scores by School Type 
 
 Inside of Jupyter Notebook there is detailed PyCitySchools Analysis.
+
+This was very interesting challenge to do, and I greatly appreciate help from Learning Assistant in part where they helped me with understanding errors that occured in groupby with math scores and scores by schools spending.  
